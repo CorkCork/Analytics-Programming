@@ -6,7 +6,7 @@ This project is an assignment for my Python class. For the assignment I will do 
 * Download a [data file](https://github.com/CorkCork/Analytics-Programming/blob/master/Module%204/Data/Water_Consumption_In_The_New_York_City.csv) from NYC's Open Data Portal. You can find out more about this data at https://data.cityofnewyork.us/Environment/Water-Consumption-In-The-New-York-City/ia2d-e54m.
 * Create a [Jupyter Notebook](https://github.com/CorkCork/Analytics-Programming/blob/master/Module%204/Module%204.ipynb)
 
-In the [Jupyter Notebook]https://github.com/CorkCork/Analytics-Programming/blob/master/Module%204/Module%204.ipynb), I'm going to do the following:
+In the [Jupyter Notebook](https://github.com/CorkCork/Analytics-Programming/blob/master/Module%204/Module%204.ipynb), I'm going to do the following:
 
 * Use the numpy module 'genfromtxt' to import a .csv file that has NYC water use and make it into a numpy array.
 * Check the type of the numpy array, and display it, without scientific notation.
