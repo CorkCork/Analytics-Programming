@@ -7,6 +7,7 @@ In this project, I will be doing the following:
 * Remove columns with too much missing data.
 * Change the data type of one or more columns.
 * Do a missingness analysis to understand missing data more fully.
+* Harmonize values (e.g. if "borough" appears in both UPPERCASE, lowercase, and Title Case, transform the variable to have the same format).
 * Add a new column and rename some of my columns.
 * Use regex to identify values that contain certain substrings.
 * Replace missing data indicators.
